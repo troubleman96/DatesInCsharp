@@ -1,0 +1,14 @@
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\bin\Debug\net9.0\Date.exe
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\bin\Debug\net9.0\Date.deps.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\bin\Debug\net9.0\Date.runtimeconfig.json
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\bin\Debug\net9.0\Date.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\bin\Debug\net9.0\Date.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\obj\Debug\net9.0\Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\obj\Debug\net9.0\Date.AssemblyInfoInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\obj\Debug\net9.0\Date.AssemblyInfo.cs
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\obj\Debug\net9.0\Date.csproj.CoreCompileInputs.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\obj\Debug\net9.0\Date.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\obj\Debug\net9.0\refint\Date.dll
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\obj\Debug\net9.0\Date.pdb
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\obj\Debug\net9.0\Date.genruntimeconfig.cache
+C:\Users\troubleman96\Desktop\Pluto!\c#\Date\Date\obj\Debug\net9.0\ref\Date.dll
